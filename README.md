@@ -1,5 +1,5 @@
 
-# OSSM
+# About OSSM
 **Open Source Scout Manager**
 
 ---
